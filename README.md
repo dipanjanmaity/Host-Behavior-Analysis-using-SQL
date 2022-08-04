@@ -1,4 +1,4 @@
-# Host-Behavior-Analysis-using-MS-SQL
+# Host Behavior Analysis using MS SQL
 
 Google Drive Link :
 
