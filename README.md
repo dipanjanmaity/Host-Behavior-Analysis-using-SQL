@@ -18,6 +18,23 @@ In this work, I have compared hosts based on several criteria and discovering in
 
 <br>
 
+##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> **Analysis**
+
+
+- Analysis on the distinction between SUPER HOST and NORMAL HOST on different dimensions like acceptance rate, response rate, instant booking, profile picture, identity verified, review review scores, average number of bookings per month, etc.
+
+- Analysis on how the comments of reviewers vary for listings of SUPER HOST vs. NORMAL HOST (by extracting words from the comments provided by the reviewers).
+
+- Analysis on the average price and availability of the listings for the upcoming year between SUPER HOST and NORMAL HOST.
+
+- Comparison between SUPER HOST vs NORMAL HOST for Large Property Listings.
+
+- comparing how the aforementioned tendencies change between hosts located locally and hosts located elsewhere.
+
+- Obtaining meaningful insights through the use of Excel charts.
+
+<br>
+
 ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > **Prior Knowledge**
 ![language-sql](https://user-images.githubusercontent.com/106439762/181936585-d44c5f7c-2a7b-4d35-ad8a-61dcbded1a5e.svg)
 ![microsoft-sql-server](https://user-images.githubusercontent.com/106439762/181936612-f96e085e-2d4b-4bc0-8347-1f3e0a894395.svg)
@@ -33,9 +50,9 @@ Must browse through each folder of this repository and start with:
 
     1.Always start with creating Database in SQL platform.
     
-    2.Then Import csv file. Below procedure and screenshot shows how to  **import CSV**  dataset in SQL SERVER.
+    2.Then Import csv file. The procedure and screenshot below demonstrate how to import a CSV dataset into SQL SERVER. 
     
-         o First go to Explorer window section.
+         o First go to Object Explorer section.
          
          o Left click on database in Explorer window 
          
@@ -43,41 +60,36 @@ Must browse through each folder of this repository and start with:
          
          o And in last go to Import Flat file section and select CSV files and import it.
 
+<p align="center"><img src="https://user-images.githubusercontent.com/79499162/186135900-396bd0f0-48ae-4b99-9367-5032a0ba52dc.png" width="350" height="350"></p>
 
-
-
-
-
-
+<br>
 
 ## :page_with_curl:Database schema
 
-![image](https://user-images.githubusercontent.com/79499162/182786244-11dd6893-63c6-4ee4-baeb-350cb7d02fd7.png)
+For More Information on Database Schema :  [ Click Here ](https://docs.google.com/spreadsheets/d/1TwB7Rho6iG_yEVEQuH0i200iPCVwVSHg/edit?usp=sharing&ouid=105757847331519969179&rtpof=true&sd=true)
+
+<p align="center"><img src="https://user-images.githubusercontent.com/79499162/182786244-11dd6893-63c6-4ee4-baeb-350cb7d02fd7.png" width="550" height="350"></p>
+
+
+<br>
+
+## <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Google Drive Link :
+
+- [Click here](https://drive.google.com/drive/folders/1Iv5A09M8N011S4VIgDzCMX8QAl1aLlTV?usp=sharing)
+
+<br>
+
+
+##  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> LinkedIN Profile
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipanjan-maity/)
 
 
 
 
-##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> **Analysis**
-
-
-1. Analysis on the distinction between Super Hosts and Other Hosts on different dimensions like Acceptance rate, response rate, instant booking, profile picture, identity verified, review review scores, average no of bookings per month, etc.
-
-2. Analysis on how does the comments of reviewers vary for listings of Super Hosts vs Other Hosts(By extracting words from the comments provided by the reviewers)
-
-3. Analysis on the average price and availability of the listings for the upcoming year between Super Hosts and Other Hosts
-
-4. Comparative Analysis on Large Property listing based on Super Host and Other Hosts
-
-5. Analyzing the difference in above mentioned trends between Local Hosts or Hosts residing in other locations 
-
-6. Figuring out meaningful insights by creating different charts using EXCEL
 
 
 
 
 
 
-
-Google Drive Link :
-
-https://drive.google.com/drive/folders/1Iv5A09M8N011S4VIgDzCMX8QAl1aLlTV?usp=sharing
