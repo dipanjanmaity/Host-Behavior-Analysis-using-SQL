@@ -75,7 +75,7 @@ For More Information on Database Schema :  [ Click Here ](https://docs.google.c
 
 ## <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Google Drive Link :
 
-- [Click here](https://drive.google.com/drive/folders/1Iv5A09M8N011S4VIgDzCMX8QAl1aLlTV?usp=sharing)
+- All the necessary data in one folder: [Click here](https://drive.google.com/drive/folders/1Iv5A09M8N011S4VIgDzCMX8QAl1aLlTV?usp=sharing)
 
 <br>
 
