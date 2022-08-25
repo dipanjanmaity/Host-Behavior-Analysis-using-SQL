@@ -21,7 +21,14 @@ In this work, I have compared hosts based on several criteria and discovering in
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> **Analysis**
 
 
-- Analysis on the distinction between SUPER HOST and NORMAL HOST on different dimensions like acceptance rate, response rate, instant booking, profile picture, identity verification, review review scores, average number of bookings per month, etc.
+- Analysis on the distinction between SUPER HOST and NORMAL HOST on different dimensions like:  
+    - Acceptance rate
+    - Response rate 
+    - Instant booking
+    - Profile picture
+    - Identity verification
+    - Review scores 
+    - Average number of bookings per month, etc.
 
 - Analysis on how the comments of reviewers vary for listings of SUPER HOST vs. NORMAL HOST (by extracting words from the comments provided by the reviewers).
 
