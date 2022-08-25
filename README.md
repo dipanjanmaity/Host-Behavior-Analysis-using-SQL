@@ -1,6 +1,6 @@
 # :hotel:Host Behavior Analysis using SQL
 
-In this work, I have compared hosts based on several criteria and discovering insights about hosts by analysing the property dataset of two Canadian cities **TORONTO** and **VANCOUVER** using SQL (Structured Query Language). 
+In this work, I have compared hosts based on several criteria and discovering insights about hosts by analysing the hotel dataset of two Canadian cities **TORONTO** and **VANCOUVER** using SQL (Structured Query Language). 
 
 <br>
 <p align="center"><a><img src="https://user-images.githubusercontent.com/106439762/181936448-9314e858-4251-46d6-b4d1-35a4c29e9c19.svg"><img src="https://user-images.githubusercontent.com/106439762/181936483-50475e86-bcf1-4169-994c-6476dc2e5edb.svg"></a></p>
