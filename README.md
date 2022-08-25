@@ -36,7 +36,7 @@ In this work, I have compared hosts based on several criteria and discovering in
 
 - Comparison between SUPER HOST vs NORMAL HOST for Large Property Listings.
 
-- comparing how the aforementioned tendencies change between hosts located locally and hosts located elsewhere.
+- Comparing how the aforementioned tendencies differ between hosts who live close to their listed property and hosts who live elsewhere. 
 
 - Obtaining meaningful insights through the use of Excel charts.
 
