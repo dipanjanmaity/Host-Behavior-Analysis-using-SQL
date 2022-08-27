@@ -1,6 +1,6 @@
 # :hotel:Host Behavior Analysis using SQL
 
-In this work, I have compared hosts based on several criteria and discovering insights about hosts by analysing the **Hotel Dataset** of two Canadian cities **TORONTO** and **VANCOUVER** using SQL (Structured Query Language). 
+In this work, I have compared hosts based on several criteria and discovering insights about hosts by analysing the **Property Rental Dataset** of two Canadian cities **TORONTO** and **VANCOUVER** using SQL (Structured Query Language). 
 
 <br>
 <p align="center"><a><img src="https://user-images.githubusercontent.com/106439762/181936448-9314e858-4251-46d6-b4d1-35a4c29e9c19.svg"><img src="https://user-images.githubusercontent.com/106439762/181936483-50475e86-bcf1-4169-994c-6476dc2e5edb.svg"></a></p>
@@ -10,7 +10,7 @@ In this work, I have compared hosts based on several criteria and discovering in
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Data Folder** | This folder provides you a google drive link where you can find the hotel dataset of two Canadian cities **TORONTO** and **VANCOUVER**. |
+| **Data Folder** | This folder provides you a google drive link where you can find the Property Rental Dataset of two Canadian cities **TORONTO** and **VANCOUVER**. |
 | **All Key Points Folder** | This folder contains a PDF file of all the key points which I have to find out.|
 | **Excel Analysis Folder**  | This folder contains an Excel file where I have done different kinds of analysis and created different kinds of charts using the data which I have drawn from the database using SQL. |
 | **Presentation Folder**  | You can view all the insights I discovered after doing my task in a PDF file that is contained in this folder.  |
