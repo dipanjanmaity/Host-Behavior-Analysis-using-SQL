@@ -48,7 +48,7 @@ In this work, I have compared hosts based on several criteria and discovering in
 <img height = "30" src = "https://img.shields.io/badge/MS-EXCEL-%3CGREEN%3E">
 
 
-<br>
+
 
 
 ## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
